@@ -1,0 +1,15 @@
+*{
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+}
+.logo {
+  width: 30px;
+  height: 30px;
+  margin-right: 20px;
+}
+.card-img-top {
+  height: 200px;
+  width: 100%;
+  object-fit: contain;
+}

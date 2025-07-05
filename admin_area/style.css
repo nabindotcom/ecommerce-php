@@ -1,0 +1,10 @@
+.admin-image {
+  height: 100px;
+  width: 100px;
+  object-fit: contain;
+}
+
+.footer {
+  position: absolute !important;
+  bottom: 0;
+}
